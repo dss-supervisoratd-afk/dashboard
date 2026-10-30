@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/dev.db
+backend/uploads/
+node_modules/
+frontend/dist/
+# dados internos: o painel legado e relatórios não vão para o repositório
+.resources/
+*.xlsx
+*.xls
